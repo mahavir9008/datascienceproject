@@ -16,3 +16,23 @@ The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/
 * `time_series_19-covid-Confirmed.csv`
 * `time_series_19-covid-Deaths.csv`	
 * `time_series_19-covid-Recovered.csv`
+
+
+
+Previous Sessions
+
+1. Deep Learning Master Class I - Introduction - https://www.crowdcast.io/e/deep-learning-master
+
+2. Deep Learning Master Class II - Computer Vision - https://www.crowdcast.io/e/deep-learning-master-2
+
+3. Deep Learning Master Class III - Model Performance, Quantization, & Hyperparameter Search - https://www.crowdcast.io/e/dl-master-class-iii--
+Notebooks
+
+1. RNN - https://github.com/lavanyashukla/neural_networks/blob/master/Recurrent_Neural_Networks.ipynb
+
+2. Intro to keras - https://github.com/lavanyashukla/neural_networks/blob/master/IBM%20-%20Intro%20to%20Keras%20with%20Weights%20%26%20Biases.ipynb
+
+3. Emotion classifier - https://github.com/lavanyashukla/neural_networks/blob/master/IBM%20-%20Emotion%20Classifier.ipynb
+
+4. Intro to CNN -https://github.com/lavanyashukla/neural_networks/blob/master/Intro_to_Convolutional_Neural_Networks_with_W%26B.ipynb
+
