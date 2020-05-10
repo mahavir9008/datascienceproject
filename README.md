@@ -17,6 +17,23 @@ The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/
 * `time_series_19-covid-Deaths.csv`	
 * `time_series_19-covid-Recovered.csv`
 
+You can view the previous events here:
+
+1. Deep Learning Master Class I - Introduction
+https://www.crowdcast.io/e/deep-learning-master
+
+2. Deep Learning Master Class II - Computer Vision
+https://www.crowdcast.io/e/deep-learning-master-2
+
+3. Deep Learning Master Class III - Model Performance, Quantization, & Hyperparameter Search
+https://www.crowdcast.io/e/dl-master-class-iii--
+
+4. Deep Learning Master Class IV - Into to RNNs, LSTMs, and GRUs
+https://www.crowdcast.io/e/deep-learning-master-3
+
+
+http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf  model corection
+
 https://distill.pub/ - good site to visualize
 
 https://www.slideshare.net/LavanyaShukla/designing-your-neural-networks-a-step-by-step-walkthrough/ - perfect slide to learn neutan network
