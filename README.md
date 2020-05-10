@@ -17,6 +17,8 @@ The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/
 * `time_series_19-covid-Deaths.csv`	
 * `time_series_19-covid-Recovered.csv`
 
+https://distill.pub/ - good site to visualize
+
 https://www.slideshare.net/LavanyaShukla/designing-your-neural-networks-a-step-by-step-walkthrough/ - perfect slide to learn neutan network
 
 https://github.com/lavanyashukla/neural_networks/ - All code of neuran network
