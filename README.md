@@ -18,6 +18,7 @@ The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/
 * `time_series_19-covid-Recovered.csv`
 
 You can view the previous events here:
+https://github.com/microsoft/Reactors - learn basic model stuff
 
 1. Deep Learning Master Class I - Introduction
 https://www.crowdcast.io/e/deep-learning-master
