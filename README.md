@@ -1,3 +1,7 @@
+
+https://github.com/microsoft/Reactors
+
+https://github.com/daniel-dc-cd/Reactors/tree/master/Additional_Data_Science_Materials
 ## Time series summary (csse_covid_19_time_series)
 
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data. The daily reports will not be adjusted in these instances to maintain a record of raw data. 
