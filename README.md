@@ -1,3 +1,6 @@
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms
+
+https://notebooks.azure.com/sguthals/projects/machine-learning-2
 
 https://github.com/microsoft/Reactors
 
