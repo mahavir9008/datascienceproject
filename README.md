@@ -1,3 +1,5 @@
+
+https://github.com/IBM/predict-insurance-charges-with-autoai#step-1-clone-the-repo - autoAI
 https://github.com/davidtvs/kaggle-airbus-ship-detection
 
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms
